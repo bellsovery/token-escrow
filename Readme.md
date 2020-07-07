@@ -1,2 +1,4 @@
 # About
-Escrow smart contract for ERC20 tokens, which are operational on Ethereum blockchain
+Escrow smart contract for ERC20 tokens.
+
+This smart contract can be adapted to Ethereum, TRON, Ubiq, Matic network.
